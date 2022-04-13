@@ -1,4 +1,4 @@
-module github.com/strongdm/go-mediator
+module github.com/gabrielsoaressantos/go-mediator
 
 go 1.18
 

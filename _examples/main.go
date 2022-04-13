@@ -5,8 +5,8 @@ import (
 	"errors"
 	"log"
 
-	"github.com/strongdm/go-mediator/internal/must"
-	"github.com/strongdm/go-mediator/mediator"
+	"github.com/gabrielsoaressantos/go-mediator/internal/must"
+	"github.com/gabrielsoaressantos/go-mediator/mediator"
 )
 
 func main() {
